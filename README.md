@@ -1,0 +1,2 @@
+# CodingBat
+Exercises from CodingBat
